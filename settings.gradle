@@ -1,0 +1,5 @@
+rootProject.name = 'mingpian'
+include 'quanle_web'
+include 'quanle_serviec'
+include 'quanle_dao'
+
