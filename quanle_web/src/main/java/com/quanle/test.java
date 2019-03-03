@@ -11,4 +11,7 @@ public class test {
  public static void asd(){
      System.out.println("test.asd");
  }
+    public static void asd2(){
+        System.out.println("test.asd");
+    }
 }
